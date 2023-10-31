@@ -18,7 +18,7 @@ const ArticleStyle = styled.article`
   align-items: center;
   line-height: 1.6;
   width: 30%;
-  height: 300px;
-  margin: 0.3125rem;
+  height: 18.75rem;
+  margin: 0.625rem;
 `;
 export default Article;
